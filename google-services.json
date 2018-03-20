@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "85132552740",
+    "firebase_url": "https://cleanlakes-2e0cc.firebaseio.com",
+    "project_id": "cleanlakes-2e0cc",
+    "storage_bucket": "cleanlakes-2e0cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85132552740:android:bdbe503e6c4cc50b",
+        "android_client_info": {
+          "package_name": "com.example.disha.cleanlakes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85132552740-tp92eoooevhl7tp2pgmn30c0tsgbd9ba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.disha.cleanlakes",
+            "certificate_hash": "ef66c3ea4c13cd14157c6a7ed06217e974ac12ad"
+          }
+        },
+        {
+          "client_id": "85132552740-glrb61kumn9965scm44v6qd89mvdl0nu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDylVjHAumPv4gZ8eK-9s1wyTeWSlf2XO8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85132552740-glrb61kumn9965scm44v6qd89mvdl0nu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
